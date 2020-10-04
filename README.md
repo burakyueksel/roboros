@@ -6,9 +6,7 @@ Admin of this repository and the author: Burak Y\"uksel
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* TBD
 
 ### How do I get set up? ###
 
@@ -75,9 +73,7 @@ $ rostopic echo /pyTestChatter
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* TBD
 
 ### Who do I talk to? ###
 
