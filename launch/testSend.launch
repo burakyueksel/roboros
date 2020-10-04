@@ -1,0 +1,5 @@
+<launch>
+  <node name="cppTestSend" pkg="roboros" type="cppTestSend" />
+
+  <node name="pyTestSend" pkg="roboros" type="pyTestSend.py" />
+</launch>
